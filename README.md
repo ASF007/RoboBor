@@ -4,8 +4,8 @@
 What is this? <br></br>
 RoboBor is a discord bot which aims to bring you various features to make discord fun for you, most of these are community requested which can be done so by either creating a issue or requesting one in the [support server](https://discord.gg/BwxC4JhT52).
 
-- This bot is totally inspired by [RoboTop](https://robotop.xyz/) and aims to bring back features that will not be maintained anymore (ie moderation, automod etc).
-- The code here has been simplified to promote user contribution.
+- This bot is inspired by [RoboTop](https://robotop.xyz/) and aims to bring back features that will not be maintained anymore (ie moderation, automod etc).
+- The code here has been simplified to encourage user contribution.
 - This project aims to get your intrests in programming.
 
 # TODO Features
