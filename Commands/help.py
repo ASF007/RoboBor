@@ -20,7 +20,7 @@ URLS = (
     ("Support", "https://discord.gg/BwxC4JhT52"),
     ("Add Me!", discord.utils.oauth_url(990599121033388062, permissions = discord.Permissions(545394125942), scopes = ("bot", "applications.commands")))
     )
-IGNORED = ("Help", "Internal")
+IGNORED = ("Help", "Internal", "Backend")
 
 # our subclass of HelpCommand
 class RoboBorHelp(commands.HelpCommand):
