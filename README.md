@@ -1,5 +1,6 @@
-# RoboBor
-<p align = "center"><img width="248" height="248" src="assets/robobor.webp"></p>
+<h1 align = "center"> RoboBor</h1> 
+
+<p align = "center"><img width="248" height="248" src="assets/robbor_green(light).png"></p>
 
 # What is this? <br></br>
 RoboBor is a discord bot which aims to bring you various features to make discord fun for you, most of these are community requested which can be done so by either creating a issue or requesting one in the [support server](https://discord.gg/BwxC4JhT52).
