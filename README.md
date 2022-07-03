@@ -1,4 +1,5 @@
-# RoboBor
+<h1 align = "center"> RoboBor</h1> 
+
 <p align = "center"><img width="248" height="248" src="https://raw.githubusercontent.com/ASF007/RoboBor/master/assets/robbor_green(light).png?token=GHSAT0AAAAAABVWHI5MPGOKXGZMTFJUK6SGYWBV23Q"></p>
 
 # What is this? <br></br>
