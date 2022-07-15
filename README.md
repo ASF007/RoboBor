@@ -1,5 +1,5 @@
 <h1 align = "center"> RoboBor</h1> 
-
+<p align = "center"><img width="248" height="248" src="assets/logo.png"></p>
 <p align = "center"><img width="248" height="248" src="assets/robbor_green(light).png"></p>
 
 # What is this? <br></br>
