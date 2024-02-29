@@ -1,6 +1,7 @@
-<h1 align = "center"> RoboBor</h1> 
-
-<p align = "center"><img width="248" height="248" src="assets/robbor_green(light).png"></p>
+<div class="header">
+  <p align = "center"><img width="512" src="assets/logo.png"></p>
+  <p align = "center"><img width="248" height="248" src="assets/robbor_green(light).png"></p>
+</div>
 
 # Update
 > I haven't abandoned this project, I'll work on it if I get some free time, feel free to fork it and create PR's , I'll review them in my free time and push them, however create a issue first or [join the support server](https://discord.gg/upTFQ2zRgJ) and ping me there with what issue your adding. Do **note** that this is meant to be community feature driven bot. <br> </br>
