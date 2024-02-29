@@ -1,4 +1,5 @@
 git+https://github.com/Rapptz/discord.py@7ad00750c6422d8f19c0fb1859b7ee69fd4fa519
 git+https://github.com/ASF007/RoboTop.git@master
 git+https://github.com/Tinche/aiofiles.git@f4abf862bc5e81aea17208dfb062d670360e81c2
-python-dotenv
+humanfriendly
+aioredis
